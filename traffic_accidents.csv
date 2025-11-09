@@ -1,0 +1,8 @@
+Date,Time,Location,Weather,Vehicle_Type,Cause,Fatalities,Injuries
+2025-02-01,08:30,Chennai,Clear,Car,Over Speeding,1,2
+2025-02-02,21:15,Coimbatore,Rainy,Bike,Slippery Road,0,1
+2025-02-03,19:45,Madurai,Cloudy,Bus,Signal Jump,1,3
+2025-02-04,23:20,Trichy,Clear,Lorry,Drunk Driving,2,0
+2025-02-05,09:15,Salem,Foggy,Car,Poor Visibility,0,1
+2025-02-06,18:00,Chennai,Clear,Bus,Over Speeding,1,2
+2025-02-07,22:30,Trichy,Clear,Bike,Drunk Driving,1,1
